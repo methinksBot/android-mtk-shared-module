@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.methinksBot</groupId>
   <artifactId>mtk-shared-module</artifactId>
-  <version>0.9</version>
+  <version>0.91</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
