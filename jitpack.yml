@@ -1,3 +1,3 @@
 install:
-  - FILE="-Dfile=mtk-shared-module-0.92.aar"
-  - mvn install:install-file $FILE -DgroupId=com.github.methinksBot -DartifactId=anndroid-mtk-shared-module -Dversion=0.92 -Dpackaging=aar -DpomFile=mtk-shared-module-0.92.pom
+  - FILE="-Dfile=mtk-shared-module-0.93.aar"
+  - mvn install:install-file $FILE -DgroupId=com.github.methinksBot -DartifactId=anndroid-mtk-shared-module -Dversion=0.93 -Dpackaging=aar -DpomFile=mtk-shared-module-0.93.pom
